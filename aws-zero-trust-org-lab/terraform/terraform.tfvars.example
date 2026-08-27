@@ -1,0 +1,2 @@
+# Copy to terraform.tfvars for local use. Never commit terraform.tfvars.
+# Add only non-secret configuration values here as examples.
